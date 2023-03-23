@@ -27,7 +27,7 @@ const Question = () => {
     }
 
     return (
-        <div className='my-16'>
+        <div className='my-16 mb-48'>
             <h1 className='text-2xl text-yellow-500 font-semibold'>Questions maybe circling in your mind:</h1>
             <div className='ml-10'>
                 

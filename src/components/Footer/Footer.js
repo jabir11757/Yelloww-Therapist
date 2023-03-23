@@ -2,7 +2,7 @@ import React from 'react';
 
 const Footer = () => {
     return (
-        <div className='flex justify-center mt-24'>
+        <div className='flex justify-center'>
             <div>
                 <div className='flex justify-center'>
                     <p className='text-slate-500'><small>The Yellow Therapist |</small></p>
