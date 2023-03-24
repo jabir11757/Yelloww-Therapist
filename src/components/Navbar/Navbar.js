@@ -14,7 +14,7 @@ const Navbar = () => {
       </div>
       <div className=''>
         <h1 className='-mt-2'><small>08:12:09</small></h1>
-        <h1 className='-mt-2 -ml-6'><small>Wed, 22 Mar, 2023</small></h1>
+        <h1 className='-mt-2 -ml-6 underline'><small>Wed, 22 Mar, 2023</small></h1>
         <h1 className='-mt-2'><small>User Type</small></h1>
       </div>
     </div>
